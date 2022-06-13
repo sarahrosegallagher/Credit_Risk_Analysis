@@ -28,7 +28,7 @@ This analysis applies machine learning to assess credit risk. Using a credit car
 
 
 ### Combination Model
-* SMOTEEN
+* SMOTEENN
   * Balanced Accuracy Score: 65%
   * Classification Report
   <img src="Resources/smoteen.png" width="75%" height="75%"> 
